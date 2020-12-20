@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Q&amp;A</string>
+    <string name="questions_nremaining">questions\nremaining</string>
+    <string name="submit">submit</string>
+</resources>
